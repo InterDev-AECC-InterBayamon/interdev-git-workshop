@@ -1,6 +1,6 @@
 ## Taller de Git & Github
-# Para INTERDEV
-# Por Jessica M. Vázquez
+### Para INTERDEV
+### Por Jessica M. Vázquez
 
 You can use the [editor on GitHub](https://github.com/InterDev-AECC-InterBayamon/interdev-git-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
